@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Cure Elaelo Disability
 // @namespace   Violentmonkey script
-// @version     1.0
+// @version     1.1
 // @description Delete 'disabled="disabled"' on elaelo
 // @author      MeFinity
 // @homepageURL https://github.com/MeFinity/userscript
@@ -9,6 +9,7 @@
 // @updateURL    https://github.com/MeFinity/userscript/raw/main/elaelo-able.user.js
 // @match       https://elaelo.com/*
 // @match       https://elaelo.id/*
+// @match       https://elaelo.app/*
 // @grant       none
 // ==/UserScript==
 
